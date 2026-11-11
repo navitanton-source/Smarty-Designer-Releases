@@ -1,0 +1,17 @@
+# Generated binaries must be GitHub Release assets, not Git-tracked files.
+*.zip
+*.jar
+*.apk
+*.key
+*.pem
+*.p12
+*.jks
+*.keystore
+*.db
+*.sqlite
+*.sqlite3
+.env
+.env.*
+*.token
+.DS_Store
+Thumbs.db
