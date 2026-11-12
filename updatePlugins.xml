@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <plugins>
-  <plugin id="ru.smarty.designer" url="https://github.com/navitanton-source/Smarty-Designer-Releases/releases/download/designer-v0.1.0/smarty-designer-0.1.0.zip" version="0.1.0">
+  <plugin id="ru.smarty.designer" url="https://github.com/navitanton-source/Smarty-Designer-Releases/releases/download/designer-v0.1.1/smarty-designer-0.1.1.zip" version="0.1.1">
     <idea-version since-build="262.10968.63" />
   </plugin>
 </plugins>
